@@ -1,0 +1,26 @@
+.meaningful-word {
+  font-weight: bold;
+  padding: 0 1px;
+  border-radius: 3px;
+}
+
+.meaningful-word.noun {
+  background-color: rgba(255, 215, 0, 0.3);
+}
+
+.meaningful-word.verb {
+  background-color: rgba(173, 216, 230, 0.3);
+}
+
+.meaningful-word.adj {
+  background-color: rgba(144, 238, 144, 0.3);
+}
+
+.meaningful-word.adv {
+  background-color: rgba(255, 182, 193, 0.3);
+}
+
+.dimmed-word {
+  opacity: 0.4;
+}
+
